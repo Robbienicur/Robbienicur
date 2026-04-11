@@ -19,17 +19,8 @@ I'm a **Computer Systems Engineering** student at **UDLAP** (Universidad de las 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Robbienicur/Robbienicur/output/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Robbienicur/Robbienicur/output/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Robbienicur/Robbienicur/output/profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Robbienicur/Robbienicur/output/profile-summary-card-output/default/3-stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/Robbienicur/Robbienicur/output/profile-summary-card-output/default/4-productive-time.svg" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Robbienicur&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Robbienicur&layout=compact&theme=default&hide_border=true" height="170" />
 </div>
 
 ## 🌐 Languages
