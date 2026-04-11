@@ -8,11 +8,11 @@ I'm a **Computer Systems Engineering** student at **UDLAP** (Universidad de las 
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,cpp,java,python,html,ts,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,c,cpp,java,python,html,ts,js,mysql&theme=light)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=docker,nodejs,css,tailwind&theme=light)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,electron,supabase,postgres,docker,nodejs,css,tailwind&theme=light)](https://skillicons.dev)
 
 > Also exploring **Artificial Intelligence** and **Cybersecurity**
 
@@ -30,4 +30,3 @@ I'm a **Computer Systems Engineering** student at **UDLAP** (Universidad de las 
 ---
 
 *Always learning, always building.*
-
